@@ -396,7 +396,7 @@ export default function HandDetectionCamera() {
       <div 
         className="absolute inset-0 pointer-events-none"
         style={{
-          background: 'radial-gradient(circle at center, transparent 0%, transparent 40%, rgba(0, 0, 0, 0.8) 80%,rgba(0, 0, 0, 0.8) 80%, rgba(0, 0, 0, 1) 100%)'
+          background: 'radial-gradient(ellipse at center, transparent 0%, transparent 30%, rgba(0, 0, 0, 0.6) 60%, rgba(0, 0, 0, 0.95) 85%, rgba(0, 0, 0, 1) 100%)'
         }}
       />
 
@@ -404,7 +404,7 @@ export default function HandDetectionCamera() {
       <div 
         className="absolute inset-0 pointer-events-none"
         style={{
-          background: 'radial-gradient(circle at center, transparent 0%, transparent 60%, rgba(0, 0, 0, 0.5) 85%, rgba(0, 0, 0, 0.9) 95%, rgba(0, 0, 0, 1) 100%)'
+          background: 'radial-gradient(ellipse at center, transparent 0%, transparent 40%, rgba(0, 0, 0, 0.7) 75%, rgba(0, 0, 0, 0.95) 90%, rgba(0, 0, 0, 1) 100%)'
         }}
       />
 
