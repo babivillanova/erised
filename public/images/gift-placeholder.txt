@@ -1,0 +1,19 @@
+For best results, replace this with a PNG image of a Christmas gift!
+
+The app will use gift.png if available, otherwise it will fall back to:
+1. gift.svg (included)
+2. A programmatically drawn gift box
+
+Recommended image specs:
+- Format: PNG with transparency
+- Size: 200x200 pixels or larger
+- Design: Christmas gift with bow/ribbon
+- Style: Bright, festive colors
+
+You can find free Christmas gift images at:
+- https://www.flaticon.com/
+- https://www.freepik.com/
+- https://pixabay.com/
+
+Simply save your image as "gift.png" in this directory!
+
